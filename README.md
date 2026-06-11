@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-lip-lines/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Soft Lip Lines](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-lip-lines/) |
+| **Get License** | [Get a Licensing Quote for Soft Lip Lines](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-lip-lines/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat of you across the room
+> A sudden rush that cuts through all the gloom
+> I want to learn the secrets that you hide
+> And pull your body closer to my side
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
